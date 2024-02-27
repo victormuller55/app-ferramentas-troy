@@ -17,43 +17,43 @@ dependencies:
   animations: ^2.0.3
   show_up_animation: ^2.0.0
   animated_button: ^0.2.0
-  pin_code_fields: ^7.4.0
-  flutter_email_sender: ^5.1.0
-  mailer: ^5.2.0
-  http: ^0.13.4
-  dio: ^4.0.6
+  pin_code_fields: ^8.0.1
+  flutter_email_sender: ^6.0.2
+  mailer: ^6.1.0
+  http: ^1.2.0
+  dio: ^5.4.0
   bloc: ^8.1.0
   flutter_bloc: ^8.1.1
   crypto: ^3.0.2
   convert: ^3.0.2
   in_app_notification: ^1.1.2
-  hexcolor: ^2.0.7
-  image_gallery_saver: ^1.7.1
+  hexcolor: ^3.0.1
+  image_gallery_saver: ^2.0.3
   path_provider: ^2.0.11
-  screenshot: ^1.2.3
-  share_plus: ^4.0.10+1
+  screenshot: ^2.1.0
+  share_plus: ^7.2.2
   flutter_native_splash: ^2.2.9
   loading_animation_widget: ^1.2.0+2
   email_validator: ^2.0.1
   shared_preferences: ^2.0.15
-  network_info_plus: ^2.1.4+1
-  flutter_keyboard_visibility: ^5.3.0
-  syncfusion_flutter_charts: ^20.3.47
+  network_info_plus: ^4.1.0+1
+  flutter_keyboard_visibility: ^6.0.0
+  syncfusion_flutter_charts: ^24.2.6
   mask_text_input_formatter: ^2.4.0
   masked_text_field: ^1.0.1
   extended_masked_text: ^2.3.1
-  intl: ^0.17.0
+  intl: ^0.19.0
   provider: ^6.0.4
   list_tile_switch: ^1.0.0
   currency_text_input_formatter: ^2.1.8
   pdf: ^3.8.4
-  syncfusion_flutter_pdf: ^20.3.56
+  syncfusion_flutter_pdf: ^24.2.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.1
 
 flutter:
 
