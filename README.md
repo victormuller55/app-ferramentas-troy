@@ -19,9 +19,8 @@ The Machining Parts Comparison Mobile App provides a platform for comparing vari
 ```bash
 git clone https://github.com/victormuller55/app-ferramentas-troy.git
 ```
-
-2. Open the Project: Open the project folder in your preferred IDE or text editor.
-3. Install the software to run the application: Intall Android Studio (or VS Code) and Flutter.
+2. Install the software to run the application: Intall Android Studio (or VS Code) and Flutter.
+3. Open the Project: Open the project folder in your preferred IDE or text editor.
 4. Run the App: Use Flutter commands to run the application on a simulator or physical device.
 
 ## Contact:
