@@ -7,7 +7,6 @@ The Machining Parts Comparison Mobile App provides a platform for comparing vari
 
 ## Key Features:
 - Part Comparison: Users can compare different machining parts based on various parameters.
-- Visual Representation: The app offers visual representations of parts for easy comparison.
 - User-Friendly Interface: Designed with a simple and intuitive interface for ease of use.
   
 ## Technologies Used:
